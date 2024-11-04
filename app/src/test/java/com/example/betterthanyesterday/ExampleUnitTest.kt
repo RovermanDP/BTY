@@ -1,4 +1,4 @@
-package com.example.betterthanyesterday
+package com.example.myapplicationbty1
 
 import org.junit.Test
 
